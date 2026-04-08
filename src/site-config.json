@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Orange Electric Gate Builders & Repair",
+    "phone": "+13237461996",
+    "category": "fence contractor",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Trusted Fence Experts",
+      "heroSubline": "Orange Electric Gate Builders & Repair delivers superior fence solutions throughout Long Beach. Protect your property with our durable, custom-built fences.",
+      "aboutTitle": "Decades of Fencing Excellence in Long Beach",
+      "aboutText": [
+        "Orange Electric Gate Builders & Repair started with a simple goal: to provide Long Beach residents with reliable and aesthetically pleasing fence solutions. Founded by a local craftsman who understood the unique needs of our coastal community, we've grown from a small team to a trusted name in fencing.",
+        "We believe in doing things right the first time. That means using quality materials designed to withstand the Long Beach climate – from the intense summer sun to the occasional coastal storm. Our skilled team prioritizes precision and attention to detail in every project, ensuring long-lasting results and complete customer satisfaction.",
+        "We're proud to be a part of the Long Beach community. We actively support local initiatives and strive to create a positive impact through our work. Our commitment extends beyond just building fences; it's about building relationships and contributing to the well-being of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Long Beach's unique climate and housing styles, ensuring your fence is built to last."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "From classic wood fences to modern metal designs, we create fences tailored to your specific needs and preferences."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only premium materials that can withstand the coastal elements and provide lasting protection."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our experienced team ensures precise and efficient installation, minimizing disruption to your property."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Contact Orange Electric Gate Builders & Repair for a free consultation and estimate on your fencing project."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences crafted for Long Beach homes.",
+        "description": "We specialize in crafting and installing beautiful and durable wood fences that enhance the privacy and curb appeal of your Long Beach property. From traditional picket fences to sturdy privacy fences, we offer a wide range of wood types and styles to suit your aesthetic preferences and security needs. Our experienced team carefully selects premium lumber that resists weathering and insect damage, ensuring your wood fence stands the test of time, even with the intense Long Beach sun. We handle every aspect of the installation process, from precise measurements and post setting to expert finishing and staining. Our commitment to quality craftsmanship and attention to detail guarantees a wood fence that not only looks great but also provides lasting value to your home.",
+        "process": [
+          "Step 1: Consultation and Design – Discuss your needs and design preferences.",
+          "Step 2: Material Selection – Choose from a variety of wood types and styles.",
+          "Step 3: Professional Installation – Our team expertly installs your new fence.",
+          "Step 4: Finishing and Staining – Protect and enhance your fence with our finishing services."
+        ],
+        "benefits": [
+          "Enhanced privacy and security",
+          "Improved curb appeal",
+          "Natural and aesthetically pleasing",
+          "Customizable designs to match your home"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for fences in Long Beach?",
+            "answer": "For Long Beach, redwood and cedar are excellent choices due to their natural resistance to decay and insects. They also hold up well against the sun."
+          },
+          {
+            "question": "How long will a wood fence last?",
+            "answer": "With proper maintenance, a well-built wood fence in Long Beach can last 15-20 years or more. Regular cleaning and sealing are crucial."
+          },
+          {
+            "question": "Do I need a permit to install a wood fence?",
+            "answer": "Yes, in most cases, you'll need a permit from the City of Long Beach. We can assist you with the permit application process."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences for lasting beauty and security.",
+        "description": "Enjoy the beauty of a traditional fence without the hassle of constant upkeep with our premium vinyl fence installation services. Vinyl fences are an excellent choice for Long Beach homeowners seeking a durable, low-maintenance fencing solution that can withstand the coastal climate. Our vinyl fences are resistant to fading, cracking, and warping, ensuring they maintain their pristine appearance for years to come. We offer a variety of styles and colors to complement your home's architecture and landscaping, from classic white picket fences to modern privacy panels. Our experienced installation team ensures precise and secure installation, guaranteeing a long-lasting and beautiful vinyl fence that enhances the value of your property.",
+        "process": [
+          "Step 1: Site Assessment and Planning – We evaluate your property and discuss your needs.",
+          "Step 2: Vinyl Fence Selection – Choose from our wide range of styles and colors.",
+          "Step 3: Professional Installation – Our team installs your vinyl fence with precision.",
+          "Step 4: Final Inspection – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Low maintenance and easy to clean",
+          "Resistant to fading, cracking, and warping",
+          "Wide range of styles and colors",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A properly installed vinyl fence can last for 30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Does vinyl fencing come in different colors?",
+            "answer": "Yes, vinyl fencing is available in a variety of colors to match your home's exterior."
+          },
+          {
+            "question": "Is vinyl fencing environmentally friendly?",
+            "answer": "Yes, vinyl fencing is often made from recycled materials and is recyclable at the end of its lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and durable chain link fences for security and containment.",
+        "description": "For reliable security and containment at an affordable price, choose our professional chain link fence installation services. Chain link fences are a practical solution for a variety of applications, from securing your backyard to protecting commercial properties. We offer a range of chain link fence heights and gauges to meet your specific needs, and our experienced team ensures a secure and long-lasting installation. We use galvanized steel that resists rust and corrosion, even in the salty air of Long Beach, ensuring your chain link fence provides years of reliable service. Whether you need a simple boundary fence or a high-security enclosure, we have the expertise to deliver a solution that meets your requirements and budget.",
+        "process": [
+          "Step 1: On-Site Consultation – Determine your security and containment needs.",
+          "Step 2: Material Selection – Choose the appropriate gauge and height for your fence.",
+          "Step 3: Professional Installation – Our team installs your chain link fence efficiently.",
+          "Step 4: Quality Assurance – We ensure your fence meets our high standards."
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Durable and long-lasting",
+          "Provides security and containment",
+          "Low maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to install a chain link fence?",
+            "answer": "The installation time depends on the size of the area, but most residential chain link fence installations can be completed in 1-2 days."
+          },
+          {
+            "question": "Can I customize a chain link fence?",
+            "answer": "Yes, you can add privacy slats to a chain link fence for increased privacy and aesthetics."
+          },
+          {
+            "question": "Is chain link fencing suitable for pet containment?",
+            "answer": "Yes, chain link fencing is an excellent choice for containing pets, especially when installed with appropriate height and security measures."
+          }
+        ]
+      },
+      {
+        "slug": "automatic-gate-installation",
+        "name": "Automatic Gate Installation",
+        "shortDescription": "Enhance security and convenience with automatic gate systems.",
+        "description": "Upgrade your property's security and convenience with our professional automatic gate installation services. We specialize in designing and installing custom automatic gate systems that provide controlled access and enhanced security for your home or business. Our experienced technicians will work with you to select the perfect gate style, operator, and access control system to meet your specific needs. We handle all aspects of the installation process, from site preparation and gate fabrication to electrical wiring and programming. With our automatic gate systems, you can enjoy the peace of mind knowing your property is secure and easily accessible.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your access control needs and gate style preferences.",
+          "Step 2: Gate and Operator Selection – Choose the appropriate gate and operator for your property.",
+          "Step 3: Professional Installation – Our team expertly installs your automatic gate system.",
+          "Step 4: System Programming and Testing – We ensure your gate system operates smoothly and securely."
+        ],
+        "benefits": [
+          "Enhanced security and controlled access",
+          "Increased convenience and ease of use",
+          "Improved property value",
+          "Customizable designs to match your property"
+        ],
+        "faq": [
+          {
+            "question": "What types of automatic gates are available?",
+            "answer": "We offer a variety of automatic gate types, including swing gates, slide gates, and barrier gates."
+          },
+          {
+            "question": "How much does an automatic gate system cost?",
+            "answer": "The cost of an automatic gate system depends on the gate type, operator, and access control features. Contact us for a free estimate."
+          },
+          {
+            "question": "Do automatic gates require maintenance?",
+            "answer": "Yes, automatic gates require periodic maintenance to ensure smooth and reliable operation. We offer maintenance and repair services."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair-services",
+        "name": "Fence Repair Services",
+        "shortDescription": "Fast and reliable fence repair services to restore security and aesthetics.",
+        "description": "Don't let a damaged fence compromise your property's security or curb appeal. Orange Electric Gate Builders & Repair offers prompt and reliable fence repair services to restore your fence to its original condition. Whether your fence has been damaged by weather, accidents, or general wear and tear, our experienced technicians can quickly assess the damage and provide effective repair solutions. We handle all types of fence repairs, from replacing broken posts and panels to repairing damaged gates and hardware. We understand the urgency of fence repairs and strive to provide fast and efficient service to minimize disruption to your property.",
+        "process": [
+          "Step 1: Damage Assessment – We evaluate the extent of the damage to your fence.",
+          "Step 2: Repair Plan – We develop a detailed repair plan and provide a cost estimate.",
+          "Step 3: Professional Repairs – Our team efficiently repairs your fence with quality materials.",
+          "Step 4: Quality Inspection – We ensure the repairs meet our high standards."
+        ],
+        "benefits": [
+          "Restores security and privacy",
+          "Enhances curb appeal",
+          "Extends the lifespan of your fence",
+          "Cost-effective solution compared to replacement"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you repair my fence?",
+            "answer": "We strive to provide same-day or next-day fence repair services whenever possible."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer 24/7 emergency fence repair services for urgent situations."
+          },
+          {
+            "question": "What types of fences do you repair?",
+            "answer": "We repair all types of fences, including wood, vinyl, chain link, and wrought iron fences."
+          }
+        ]
+      },
+      {
+        "slug": "gate-repair-services",
+        "name": "Gate Repair Services",
+        "shortDescription": "Expert gate repair services to ensure smooth and secure operation.",
+        "description": "A malfunctioning gate can be a major inconvenience and security risk. Orange Electric Gate Builders & Repair offers expert gate repair services to restore your gate to smooth and secure operation. Our experienced technicians can diagnose and repair all types of gate problems, from broken hinges and latches to malfunctioning gate openers and access control systems. We use quality replacement parts and proven repair techniques to ensure lasting results. Whether you have a manual gate or an automatic gate, we have the expertise to get it working properly again.",
+        "process": [
+          "Step 1: Troubleshooting – We diagnose the cause of the gate malfunction.",
+          "Step 2: Repair Plan – We develop a detailed repair plan and provide a cost estimate.",
+          "Step 3: Professional Repairs – Our team efficiently repairs your gate with quality parts.",
+          "Step 4: System Testing – We ensure the gate operates smoothly and securely."
+        ],
+        "benefits": [
+          "Restores gate functionality and security",
+          "Prevents further damage to the gate",
+          "Extends the lifespan of your gate",
+          "Ensures smooth and reliable operation"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to repair a gate?",
+            "answer": "The cost of gate repair depends on the type and extent of the damage. Contact us for a free estimate."
+          },
+          {
+            "question": "Do you repair automatic gate openers?",
+            "answer": "Yes, we specialize in repairing all types of automatic gate openers."
+          },
+          {
+            "question": "Can you replace broken gate hinges?",
+            "answer": "Yes, we can replace broken or damaged gate hinges with high-quality replacements."
+          }
+        ]
+      },
+      {
+        "slug": "custom-fence-design",
+        "name": "Custom Fence Design",
+        "shortDescription": "Create a unique fence that reflects your style and enhances your property.",
+        "description": "Transform your property with a custom-designed fence that reflects your personal style and enhances your landscape. Orange Electric Gate Builders & Repair offers custom fence design services to create a one-of-a-kind fencing solution that meets your specific needs and aesthetic preferences. Our experienced designers will work closely with you to develop a design that complements your home's architecture and landscaping, while providing the security and privacy you desire. We can incorporate a variety of materials, styles, and features to create a truly unique and personalized fence that sets your property apart.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your ideas, preferences, and budget.",
+          "Step 2: Design Development – Our designers create a detailed fence design based on your input.",
+          "Step 3: Material Selection – Choose from a wide range of materials and finishes.",
+          "Step 4: Installation Planning – We develop a detailed installation plan to ensure a smooth and efficient process."
+        ],
+        "benefits": [
+          "A unique fence that reflects your personal style",
+          "Enhanced curb appeal and property value",
+          "Customized to meet your specific needs",
+          "Created with quality materials and craftsmanship"
+        ],
+        "faq": [
+          {
+            "question": "How much does custom fence design cost?",
+            "answer": "The cost of custom fence design depends on the complexity of the design and the materials used. Contact us for a free consultation."
+          },
+          {
+            "question": "Can I see examples of your custom fence designs?",
+            "answer": "Yes, we can provide you with a portfolio of our previous custom fence design projects."
+          },
+          {
+            "question": "How long does it take to design and install a custom fence?",
+            "answer": "The timeline for custom fence design and installation depends on the complexity of the project. We will provide you with a detailed timeline during the design consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Orange Electric Gate Builders & Repair is proud to offer our comprehensive electric gate and fence services to the residents and businesses of Los Angeles. From the iconic Hollywood Hills to the vibrant downtown area, we understand the unique needs of LA properties. We specialize in designing, installing, and repairing electric gates and fences that complement the city's diverse architectural styles, including the prevalence of 1920s Spanish Colonial Revival designs. Our team is dedicated to providing reliable and secure solutions that enhance the curb appeal and security of your property.\n\nWe are familiar with the warm, dry climate of Los Angeles and use materials and construction techniques that are specifically chosen for their durability and resistance to the elements. Whether you need a custom-designed gate for a modern residence or repairs to an existing system on a historic property, Orange Electric Gate Builders & Repair is your trusted partner in Los Angeles.",
+        "localContext": "Los Angeles is a sprawling metropolis known for its entertainment industry, diverse culture, and architectural styles like the 1920s Spanish Colonial Revival. The city experiences a warm, dry climate year-round.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Orange Electric Gate Builders & Repair provides expert electric gate and fence services to the beautiful city of Pasadena. Known for its rich history and stunning architecture, particularly the prevalence of 1910s-30s Craftsman bungalows, Pasadena demands a level of craftsmanship and attention to detail that we are proud to deliver. We offer a wide range of services, from custom gate design and installation to routine maintenance and repairs.\n\nOur team understands the importance of preserving the unique character of Pasadena's homes. We carefully select materials and designs that complement the existing architecture, ensuring that your new electric gate or fence seamlessly integrates with your property. With Pasadena's warm and dry climate, we ensure all installations are built to withstand the elements.",
+        "localContext": "Pasadena is a city renowned for its historic architecture, especially the Craftsman bungalows from the 1910s-30s. The city benefits from a warm, dry climate throughout the year.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "Arcadia"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Orange Electric Gate Builders & Repair is committed to serving the planned community of Irvine with top-quality electric gate and fence solutions. Irvine is a master-planned city, known for its modern homes and well-maintained neighborhoods. We specialize in providing electric gates and fences that enhance the security and curb appeal of Irvine's residences, often built from the 1970s to the present.\n\nWe offer a wide variety of styles and materials to suit Irvine's diverse architectural landscape. Our team is experienced in working with HOAs and adhering to community guidelines to ensure a smooth and hassle-free installation process. Given Irvine's warm, dry climate, we use durable materials built to last.",
+        "localContext": "Irvine is a master-planned community with homes primarily built from the 1970s to the present. Irvine has a warm, dry climate.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Orange Electric Gate Builders & Repair is proud to offer our electric gate and fence services to the growing community of Santa Clarita. Known for its newer master-planned communities developed from the 1990s to the 2020s, Santa Clarita demands modern and reliable security solutions. We provide a full range of services, from design and installation to maintenance and repair, ensuring that your electric gate and fence system operates smoothly and efficiently.\n\nWe understand the specific needs of Santa Clarita homeowners and work closely with you to create custom solutions that meet your individual requirements and complement the style of your home. We take Santa Clarita's warm and dry climate into consideration when planning for installation and repairs.",
+        "localContext": "Santa Clarita is characterized by its newer master-planned communities, primarily built from the 1990s to the 2020s. The city enjoys a warm, dry climate.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Orange Electric Gate Builders & Repair is dedicated to providing top-notch electric gate and fence services to the residents of Torrance. With its many 1950s and 60s post-war homes, Torrance has unique needs when it comes to electric gate and fence solutions. We specialize in providing durable, reliable, and aesthetically pleasing options that enhance the security and curb appeal of your property.\n\nWe understand the architectural styles prevalent in Torrance and offer a range of options that complement these homes. Our team is committed to providing exceptional customer service and ensuring that your electric gate and fence system is installed and maintained to the highest standards. The warm and dry climate requires specific materials and installation techniques that we are well-versed in.",
+        "localContext": "Torrance features many 1950s-60s post-war homes and experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Carson",
+          "Gardena"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Orange Electric Gate Builders & Repair is your trusted local provider for electric gate and fence services in Long Beach, CA. From the bustling downtown area to the serene waterfront neighborhoods, we cater to the diverse needs of Long Beach residents and businesses. We specialize in designing, installing, and repairing electric gates and fences that enhance the security and curb appeal of your property.\n\nOur team is familiar with the unique architectural styles and climate conditions of Long Beach. We use only the highest quality materials and construction techniques to ensure that your electric gate and fence system is built to last. Whether you need a new gate for your home or repairs to an existing system for your business, Orange Electric Gate Builders & Repair is here to help.",
+        "localContext": "Long Beach is a diverse coastal city in Southern California with a mix of residential and commercial properties. It experiences a warm, Mediterranean climate.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Orange Electric Gate Builders & Repair extends its expert services to Anaheim, CA, offering tailored electric gate and fence solutions. From residential properties near Disneyland to commercial establishments, we understand the diverse needs of Anaheim. Our skilled team specializes in the design, installation, and repair of electric gates and fences to enhance security and aesthetics.\n\nWe prioritize quality materials and precise workmanship, ensuring longevity and reliability for every project. Whether you seek a new gate for your home or repairs for your business, our commitment is to deliver exceptional service that meets your specific requirements. With Anaheim's warm and dry climate in mind, we ensure all installations are built to withstand the elements.",
+        "localContext": "Anaheim is a city in Orange County, known for its theme parks, convention center, and diverse residential areas. Anaheim experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Orange Electric Gate Builders & Repair proudly serves Huntington Beach, CA, providing top-tier electric gate and fence services. As a coastal city known for its surfing culture and beachside homes, Huntington Beach requires durable and stylish solutions. We specialize in designing, installing, and repairing electric gates and fences that not only enhance security but also complement the coastal aesthetic.\n\nOur team is experienced in working with the unique challenges presented by the marine environment, selecting materials that withstand saltwater and coastal winds. Whether you need a new gate for your beachfront property or repairs to an existing system, we are committed to delivering exceptional service that exceeds your expectations. We take Huntington Beach's warm and dry climate into consideration when planning for installation and repairs.",
+        "localContext": "Huntington Beach is a coastal city famous for its surfing beaches and laid-back atmosphere. It enjoys a warm and dry climate and is subject to coastal weather conditions.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Orange Electric Gate Builders & Repair did an amazing job installing our new wood fence. The team was professional, efficient, and the fence looks fantastic! It really enhances the look of our Long Beach home. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Automatic Gate Repair",
+        "text": "Our automatic gate stopped working, and Orange Electric Gate Builders & Repair came out quickly to fix it. The technician was knowledgeable and had the gate working again in no time. Great service!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "We are so happy with our new vinyl fence! It looks beautiful and provides the privacy we needed. The installation was smooth and the crew was very respectful of our property. Excellent work!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Chain Link Fence Installation",
+        "text": "Needed a chain link fence installed quickly for my business. Orange Electric Gate Builders & Repair provided a fast and affordable solution. The fence is sturdy and exactly what I needed. Very satisfied.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Fence Repair Services",
+        "text": "A recent storm damaged a section of my wood fence. Orange Electric Gate Builders & Repair repaired it quickly and professionally. The repaired section blends seamlessly with the rest of the fence. Thanks!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Tom P.",
+        "rating": 5,
+        "service": "Custom Fence Design",
+        "text": "From initial concept to final installation, Orange Electric Gate Builders & Repair exceeded our expectations. They designed a custom fence that perfectly complements our craftsman home in Belmont Shore. The attention to detail was impressive.",
+        "date": "2024-10-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Long Beach Fence Installation | Orange Electric Gate",
+        "description": "Expert fence contractor in Long Beach, CA. Wood, vinyl, chain link fences, gates & repairs. Free quotes! Call +13237461996"
+      },
+      "about": {
+        "title": "About Us | Orange Electric Gate Builders & Repair",
+        "description": "Learn about Orange Electric Gate Builders & Repair. Long Beach's trusted fence contractor with years of experience and commitment to quality."
+      },
+      "services": {
+        "title": "Fence Services | Orange Electric Gate Builders & Repair",
+        "description": "Comprehensive fence services in Long Beach: installation, repair, custom designs. Wood, vinyl, chain link fences & automatic gates."
+      },
+      "contact": {
+        "title": "Contact Us | Orange Electric Gate Builders & Repair",
+        "description": "Contact Orange Electric Gate Builders & Repair for fence installation, repair, and custom designs in Long Beach, CA. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Reviews | Orange Electric Gate Builders & Repair",
+        "description": "Read reviews from satisfied customers of Orange Electric Gate Builders & Repair in Long Beach. See why we're the trusted fence contractor."
+      },
+      "service-areas": {
+        "title": "Service Areas | Orange Electric Gate Builders & Repair",
+        "description": "Orange Electric Gate Builders & Repair serves Long Beach, Los Angeles, Pasadena, Irvine, Santa Clarita, and Torrance. Expert fence services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "automatic-gate-installation": "/images/service-automatic-gate-installation.webp",
+      "fence-repair-services": "/images/service-fence-repair-services.webp",
+      "gate-repair-services": "/images/service-gate-repair-services.webp",
+      "custom-fence-design": "/images/service-custom-fence-design.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "automatic-gate-installation": {
+        "src": "/images/service-automatic-gate-installation.webp",
+        "srcset": "/images/service-automatic-gate-installation-400w.webp 400w, /images/service-automatic-gate-installation-800w.webp 800w, /images/service-automatic-gate-installation-1200w.webp 1200w, /images/service-automatic-gate-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair-services": {
+        "src": "/images/service-fence-repair-services.webp",
+        "srcset": "/images/service-fence-repair-services-400w.webp 400w, /images/service-fence-repair-services-800w.webp 800w, /images/service-fence-repair-services-1200w.webp 1200w, /images/service-fence-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-repair-services": {
+        "src": "/images/service-gate-repair-services.webp",
+        "srcset": "/images/service-gate-repair-services-400w.webp 400w, /images/service-gate-repair-services-800w.webp 800w, /images/service-gate-repair-services-1200w.webp 1200w, /images/service-gate-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-fence-design": {
+        "src": "/images/service-custom-fence-design.webp",
+        "srcset": "/images/service-custom-fence-design-400w.webp 400w, /images/service-custom-fence-design-800w.webp 800w, /images/service-custom-fence-design-1200w.webp 1200w, /images/service-custom-fence-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
